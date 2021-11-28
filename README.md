@@ -1,3 +1,3 @@
-# Projet fil rouge orienté proncipalement sur JavaScript
+# Projet fil rouge orienté principalement sur JavaScript
 
 __Formatrice: *Laurène Vatan*__
